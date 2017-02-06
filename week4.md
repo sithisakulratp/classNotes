@@ -1,4 +1,4 @@
-02.06.2017
+# Week 4 (02.06.2017)
 ## Logging
 ### Why:
 ```markdown
@@ -22,6 +22,16 @@ Testing techniques
   - memory and heap utilization
   - the number of effective app
   - application latency 
-      (Note: latency means the delay before a transfer of data begins following an instruction for its transfer)
+      (Note: latency means the delay before a transfer of data begins following an instruction 
+      for its transfer)
+Some software to use for testing
+ - JVisualVM
+ - JMeter
+ - SoapUI
+ - RoadRunner
 ```
-## 
+## QA Testing (Quality Testing)
+```markdown
+All and only thing the QA test cares about is does your application works with the exact 
+specifications that your client asked? QA tries to simulate what the user does.
+```
