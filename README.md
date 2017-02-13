@@ -1,1 +1,1 @@
-# classNotes
+# Software Engineering Class Notes
