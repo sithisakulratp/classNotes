@@ -1,4 +1,4 @@
-# Week 5 (02.13.2017)fdfggfd
+# Week 5 (02.13.2017)
 ## Quality in Software
 ``` markdown
 - Work / Consistent / Reliable
